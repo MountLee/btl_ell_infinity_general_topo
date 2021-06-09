@@ -1,4 +1,8 @@
 import numpy as np
+import bt_mle_utils as mle
+import scipy.stats as stats
+import random
+
 
 ########################## simulations - BT #############################
 def get_beta_with_gap(N, delta = 0.1):
