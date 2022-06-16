@@ -5,6 +5,6 @@ Two scripts:
 + *simulations.py*: functions for simulations.
 
 Notebooks:
-+ *Barbell_graph.ipynb*: simulations comparing $\ell_{\infty}$ bounds for Barbell graphs.
-+ *Island_graph.ipynb*: simulations comparing $\ell_{\infty}$ bounds for Island graphs.
++ *Barbell_bound.ipynb*: simulations comparing $\ell_{\infty}$ bounds for Barbell graphs.
++ *Island_bound.ipynb*: simulations comparing $\ell_{\infty}$ bounds for Island graphs.
 + *tournament_design_barbell.ipynb*, *tournament_design_island.ipynb*, *subadditivity-draw-plots.ipynb*: simulations related to tournament design.
